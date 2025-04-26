@@ -1,0 +1,21 @@
+:root{
+--dark: #cb2c54;
+}
+/* body{
+    background-color: var(--dark);
+} */
+.navbar-dark .navbar-toggler{
+    color: black;
+    background-color: black;
+}
+.t1:hover{
+    background-color:white;
+    color: red;
+}
+.t2:hover{
+    background-color: #cb2c54;
+    color: white;
+}
+.s1:hover{
+    color:#cb2c54;
+}
